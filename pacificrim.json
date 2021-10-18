@@ -10,11 +10,11 @@
       "interval_intertitial": 7,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
       "status_app": "0",
       "link_redirect": "https://"
     }
