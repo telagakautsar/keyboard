@@ -1,10 +1,10 @@
 {
    "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "db4d5e8718b97d78",
+      "main_ads_intertitial":"518cd97722c60b52",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
@@ -49,6 +49,66 @@
     },
      {
       "url_theme": "https://cldup.com/ykOLH1N4-a.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/Tb0mqt1DOe.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/9oOsjLCg6a.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/Yk9WvjNq_d.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/ikvnBe5BFm.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/kZNUW3kDdk.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/vBsiCQBSbn.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/kG-fNYCSLs.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/IRJ4LcKhGx.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/EFQYVnANLI.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/xaM3vKWmYF.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/9TC9p_pWiO.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/4ljz6eaH9j.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/Q6y280-ViZ.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/e56v5vKZ6z.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/XZUAM1LAP0.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/un0-JdKkVE.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/JObr7_HQaB.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/YMa4HuPSqw.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/GPwgEfeeOi.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/wADrag1Y5t.jpg"
     }
   ]
 
