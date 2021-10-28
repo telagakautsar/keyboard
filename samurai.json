@@ -1,10 +1,10 @@
 {
    "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "db4d5e8718b97d78",
+      "main_ads_intertitial":"518cd97722c60b52",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
@@ -49,7 +49,50 @@
     },
      {
       "url_theme": "https://cldup.com/r82uIhTm-9.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/VD8lPlMzmX.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/S8cYGyygkV.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/mr720D6HCL.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/6-pRs4HKhX.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/DBN_Sh1xZ3.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/6OgnHlWfeK.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/fVDdcLPXbp.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/KIQ58OjTDP.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/h_nJexqxrG.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/q42nnUGf-Z.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/4WjCrU1KIT.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/ZhUQrgbXQI.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/LYK0xAFQ2G.jpg"
+    },
+      {
+      "url_theme": "https://cldup.com/STYz_Raggd.jpg"
     }
+     
   ]
 
 
