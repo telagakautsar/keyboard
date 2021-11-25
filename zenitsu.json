@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-1799410780853043/4601877457",
+      "main_ads_intertitial":"ca-app-pub-1799410780853043/1975714119",
       "backup_ads_banner":"f0c1024ffe498e29",
       "backup_ads_intertitial":"f58097f178c17d6f",
-      "interval_intertitial": 3,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "car",
@@ -49,6 +49,36 @@
     },
      {
       "url_theme": "https://cldup.com/037ttcNbSX.jpg"
+     },
+       {
+      "url_theme": "https://cldup.com/s8BDSVZuxi.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/HHxHMs4rj7.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/vnu1nn9lVQ.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/_3lMOmBrTo.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/sQi8cUY9pM.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/vR6gOIeejg.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/PsPdJGVFvs.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/tMxBbYoV2V.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/GhQYrEyrYV.jpg"
+     },
+      {
+      "url_theme": "https://cldup.com/IrOq8ZwBnS.jpg"
      }
       
   ]
