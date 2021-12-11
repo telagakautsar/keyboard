@@ -7,7 +7,7 @@
       "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 3,
+      "interval_intertitial": 8,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "car",
@@ -20,50 +20,50 @@
     }
   ],
    "Theme": [
+     {
+      "url_theme": "https://cldup.com/heYB9jJVLn.jpg"
+    }, 
+     {
+       "url_theme": "https://cldup.com/Ej3wL5cU4e.jpg"
+    },
+     {
+      "url_theme": "https://cldup.com/HflUuXB1Yd.jpg"
+    },
+     {
+       "url_theme": "https://cldup.com/xCTTGFo0-a.jpg"
+    },
+     {
+       "url_theme": "https://cldup.com/r5nH3jgoFm.jpg"
+    }, 
     {
-      "url_theme": "https://cldup.com/4gOZ8CNprM.jpg"
-    }, 
+       "url_theme": "https://cldup.com/9tCMfYytTb.jpg"
+    },
      {
-      "url_theme": "https://cldup.com/-p519SZ4Oa.jpg"
+       "url_theme": "https://cldup.com/4-qRdLxuxm.jpg"
+    },
+     {
+       "url_theme": "https://cldup.com/A-m00-_OJn.jpg"
+    },
+     {
+       "url_theme": "https://cldup.com/_zcM9zU1G2.jpg"
+    },
+     {
+       "url_theme": "https://cldup.com/4qp7uZS-Nb.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/86b6yVRLRR.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/bzy5QeJ-pA.jpg"
+       "url_theme": "https://cldup.com/e_F4Y5glDc.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/wuOSebkyzM.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/fRQn5k4RPg.jpg"
+       "url_theme": "https://cldup.com/2-D-ZnBCam.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/2d8Efgx3TZ.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/ZHDNLaowEJ.jpg"
+       "url_theme": "https://cldup.com/reccC0hm2n.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/UBiTgcY8mE.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/IUYVqZUNzE.jpg"
+       "url_theme": "https://cldup.com/V7QNrVGp4y.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/9xX6fmFy_4.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/LSZq31xOCP.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/RyguMi3UIu.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/gM-HN4fPwm.jpg"
-    },
-    {
-      "url_theme": "https://cldup.com/19W9P0IuB8.jpg"
+       "url_theme": "https://cldup.com/uQDqkFPteM.jpg"
     }
   ]
 }
