@@ -1,0 +1,69 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://cldup.com/iErKbrot2f.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/c0dqqd6KnZ.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/ebAA0GkOPQ.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/rfeWuUAYsK.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/ZX0tJVWPn1.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/eUPzdv1sKS.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/zLm4a9Jd4C.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/woIs5WH3g1.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/A2iXQh-akC.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/JSmhUtW8x5.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/hIUMBJxDDj.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/KUaBpo4aRy.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/zzv9Ejk8EI.jpg"
+    }, 
+     {
+      "url_theme": "https://cldup.com/6lpR-W20wD.jpg"
+    },
+    {
+      "url_theme": "https://cldup.com/NTqeUFQuX5.jpg"
+    }
+  ]
+}
