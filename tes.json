@@ -1,13 +1,13 @@
 {
    "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 8,
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 4,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "car",
@@ -20,95 +20,50 @@
     }
   ],
    "Theme": [
-        {
-      "url_theme": "https://cldup.com/yZD3mPIhrG.jpg"
+    {
+      "url_theme": "https://cldup.com/iErKbrot2f.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/ECTSXG_pgN.jpg"
+      "url_theme": "https://cldup.com/c0dqqd6KnZ.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/d6rxSS7-ZQ.jpg"
+      "url_theme": "https://cldup.com/ebAA0GkOPQ.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/UW-mJyMV77.jpg"
+      "url_theme": "https://cldup.com/rfeWuUAYsK.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/F8EWtoOXNm.jpg"
+      "url_theme": "https://cldup.com/ZX0tJVWPn1.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/C0jGn8uaSJ.jpg"
+      "url_theme": "https://cldup.com/eUPzdv1sKS.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/lEU4GFTzTL.jpg"
+      "url_theme": "https://cldup.com/zLm4a9Jd4C.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/HzcUYYUf2m.jpg"
+      "url_theme": "https://cldup.com/woIs5WH3g1.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/_qYug1o_1R.jpg"
+      "url_theme": "https://cldup.com/A2iXQh-akC.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/MoGOLXx2Qy.jpg"
+      "url_theme": "https://cldup.com/JSmhUtW8x5.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/J-r82Qd4J3.jpg"
+      "url_theme": "https://cldup.com/hIUMBJxDDj.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/BF9igxceYS.jpg"
+      "url_theme": "https://cldup.com/KUaBpo4aRy.jpg"
     },
 	{
-      "url_theme": "https://cldup.com/UtiWhMb5RG.jpg"
+      "url_theme": "https://cldup.com/zzv9Ejk8EI.jpg"
     }, 
      {
-      "url_theme": "https://cldup.com/423NOj-1gN.jpg"
+      "url_theme": "https://cldup.com/6lpR-W20wD.jpg"
     },
     {
-      "url_theme": "https://cldup.com/VVp8cZMY5V.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/6KdwGPIaB4.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/tdk2ORRsJ1.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/GW-hT_KsI3.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/zLuIPsyZo4.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/wMuUl5jCcK.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/_RHvgnrzV3.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/Ethu-A3D_8.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/2DDoMm1rKY.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/q0hARRpmtt.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/mwk50AaNb7.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/JiLMgizL0q.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/dFFhOHUP6a.jpg"
-    },
-	{
-      "url_theme": "https://cldup.com/fuyGSOg007.jpg"
-    }, 
-     {
-      "url_theme": "https://cldup.com/NwzFBXySKL.jpg"
-    },
-    {
-      "url_theme": "https://cldup.com/gxJ1UIiQTw.jpg"
+      "url_theme": "https://cldup.com/NTqeUFQuX5.jpg"
     }
   ]
 }
